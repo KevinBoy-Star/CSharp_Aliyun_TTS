@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliyunTTS_Single", "AliyunTTS_Single\AliyunTTS_Single.csproj", "{4FFFA403-02F6-4D22-BD6E-4660E7D922AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliyunTTS_Batch", "AliyunTTS_Batch\AliyunTTS_Batch.csproj", "{8C38C5FF-975F-4616-B17B-85FBE837D4F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FFFA403-02F6-4D22-BD6E-4660E7D922AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFFA403-02F6-4D22-BD6E-4660E7D922AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFFA403-02F6-4D22-BD6E-4660E7D922AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFFA403-02F6-4D22-BD6E-4660E7D922AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C38C5FF-975F-4616-B17B-85FBE837D4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C38C5FF-975F-4616-B17B-85FBE837D4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C38C5FF-975F-4616-B17B-85FBE837D4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C38C5FF-975F-4616-B17B-85FBE837D4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C6BB2D0-432C-40FA-B33A-33ABFE255056}
+	EndGlobalSection
+EndGlobal
